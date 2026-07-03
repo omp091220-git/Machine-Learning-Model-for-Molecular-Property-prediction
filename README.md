@@ -7,4 +7,6 @@ In this model, I used two Supervised Learning techniques and then, compared them
 
 Feel free to do whatever you want with it and send me a mail if you find some interesting stuff!
 
+(If this is your first ML Model - Don't worry! I have made sure that every beginner like me can understand everything)
+
 Thanks!
